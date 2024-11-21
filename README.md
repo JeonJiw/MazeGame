@@ -93,7 +93,7 @@ S . # . .
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/MazeGame.git
+   git clone https://github.com/JeonJiw/MazeGame.git
    cd MazeGame
    ```
 
